@@ -1,2 +1,2 @@
 console.log('Hallo word');
-alert('Мир')
+alert('Го ебаться?')
